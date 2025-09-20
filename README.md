@@ -63,7 +63,7 @@
   <img src="https://github-readme-streak-stats-ashen-mu.vercel.app?user=Griffith000&theme=nightowl&border_radius=15" alt="GitHub Streak" />
   <img width=495 height=195 src="https://github-readme-stats.vercel.app/api?username=Griffith000&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=15" alt="readme stats" />
   <br/>
-  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Griffith000&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Griffith000&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&count_private=true" alt="top langs" />
 </div>
 
 <br/><br/>
